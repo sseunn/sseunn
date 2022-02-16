@@ -6,7 +6,7 @@
 
 
   #tech stack 
-  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub?style=flat-square&logo=아이콘이름&logoColor=white"/>
   
   
   #cowork tools
