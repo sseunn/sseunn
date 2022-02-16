@@ -2,7 +2,7 @@
 <div align="center">
 
 
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=438CB5&height=300&section=header&text=Sunjoo%20Kim&fontSize=90&fontColor=FF9999)
 
 
 </div>
