@@ -5,13 +5,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=FF9999&height=300&section=header&text=Sunjoo%20Kim&fontSize=90&fontColor=FFFFFF)
 
 
-  #tech stack 
+ **_Tech stack_** 
   <img src="https://img.shields.io/badge/GitHub?style=flat-square&logo=아이콘이름&logoColor=white"/>
   
+ **_cowork tools_** 
   
-  #cowork tools
 </div>
-
 
 
 
